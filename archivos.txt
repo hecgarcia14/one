@@ -1,3 +1,5 @@
+****Estoy modificando un archivo de texto, en este caso, a trav√©s de nano desde la consola de ubuntu
+
 dir	descrip	tam dir
  Directorio de D:\ArreglaScorecards\ru	"32 archivos 42,913,135,299 bytes"	39.966
  Directorio de D:\Respaldo Jes£s	" 1 archivos  8,172,552,443 bytes"	7.611
